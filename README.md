@@ -1,4 +1,4 @@
 django-template
 ===============
 
-My Django 1.4 template
+``django-admin.py startproject --template=https://github.com/downloads/copitux/django-template/djtemplate.zip <name>
